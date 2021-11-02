@@ -10,7 +10,7 @@ A roguelike game with randomly generated rooms
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-Mingqi Zhang
+
 
 ## Do you have any questions of your own?
 
