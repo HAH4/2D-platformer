@@ -1,2 +1,2 @@
-# RosenFall2021ProjectPreposal
-Preposal for Project
+# RosenFall2021Project
+Project Idea
