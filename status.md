@@ -18,7 +18,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-Moveable Animated avator that can run and jump on background, foreground, and collect collectables
+Moveable Animated avator that can run and jump on foreground, collect collectables, and a background 
 
 #### What have you not done for your project yet?
 
