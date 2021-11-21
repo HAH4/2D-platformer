@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Tony Gao
 
 #### Your section leader's name
 
-TODO
+Tony Gao
 
 #### Project title
 
-TODO
+Fox Run
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Moveable Animated avator that can run and jump on background, foreground, and collect collectables
 
 #### What have you not done for your project yet?
 
-TODO
+Enemies, AI, Sound effects, health, levels, endings, and polish
 
 #### What problems, if any, have you encountered?
 
-TODO
+Learning how to use C# and Unity 
