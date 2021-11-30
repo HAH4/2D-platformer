@@ -1,5 +1,5 @@
 # ProfRosenFall2021Project
-This project is built upon Alvin Roe's "Beginner Platormer Series." 
+This game is built upon Alvin Roe's "Beginner Platormer Series." 
 
 You can find it here: https://www.youtube.com/playlist?list=PLpj8TZGNIBNy51EtRuyix-NYGmcfkNAuH
 
