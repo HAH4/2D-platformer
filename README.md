@@ -11,3 +11,5 @@ The assets used in this game is called Sunny Land.
 You can find it here: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
 
 The sound fx used in the game can also be found on the Unity assets store. 
+
+Other assets used: https://assetstore.unity.com/packages/2d/gui/icons/2d-pixel-item-asset-pack-99645
