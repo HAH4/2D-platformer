@@ -1,5 +1,8 @@
 # ProfRosenFall2021Project
 FoxRun Game Build: 
+
+There are a total of three levels in the game. 
+
 Play it here: https://hah4.github.io/CST1051FinalProject/FoxRun2/index.html
 
 This game is built upon Alvin Roe's "Beginner Platormer Series." 
