@@ -1,4 +1,7 @@
 # ProfRosenFall2021Project
+Some thoughts about this project:
+The project is my first attempt at making a game. The goals were to learn more about Unity and c sharp. I didn't know where to start so I decided to follow a tutorial series with enough content that would cover the basics of a 2d platformer game. While making the game, I felt moments of joy when the code works and being able to see that everything running successful. While waching the videos, I learned how to make animations for the sprites to move, coding practices and some of the unity scripting api. I also learned how to code things like moving the camera to follow the player. My initial vision of the game was a lot bigger and harder to make. Some difficulties I encountered were that the material is harder to digest considering that I was learning c# and unity for the first time. There were moments where I felt burned out. Before making this project, I was choosing between unity and pygames. Although, pygames used python which I was more familiar with, I ultimately picked unity because it has the biggest community of game developers on the internet. Issues that I encounter with unity are most likely getting solved. Overall, the project was a lot of fun to make. 
+
 Project Overview Video:
 
 You can find it here: https://youtu.be/ee6PPGmRR4w
