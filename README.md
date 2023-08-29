@@ -1,8 +1,5 @@
 FoxRun Game Build: 
 
-There are a total of three levels in the game. 
-The quit button will end the application, please refresh the page. 
-
 Play it here: https://hah4.github.io/CST1051FinalProject/FoxRun2/index.html
 
 This game is built upon Alvin Roe's "Beginner Platformer Series." 
