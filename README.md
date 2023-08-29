@@ -6,6 +6,10 @@ This game is built upon Alvin Roe's "Beginner Platformer Series."
 
 You can find it here: https://www.youtube.com/playlist?list=PLpj8TZGNIBNy51EtRuyix-NYGmcfkNAuH
 
+The main menu is made using Brakeys "START MENU in Unity."
+
+You can find it here: https://www.youtube.com/watch?v=zc8ac_qUXQY&t=609s&ab_channel=Brackeys
+
 The assets used in this game are called Sunny Land. 
 
 You can find it here: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
