@@ -1,6 +1,6 @@
 FoxRun Game Build: 
 
-Play it here: https://hah4.itch.io/2d-platformer
+Play it here: [https://hah4.itch.io/2d-platformer](https://hah4.itch.io/2d-platformer)
 
 This game is built upon Alvin Roe's "Beginner Platformer Series." 
 
